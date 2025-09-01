@@ -18,9 +18,9 @@ Using AI video generation technologies, the interview script was constructed fro
 - This repository (or its link) provides access to the created video file.
 
 ## Project Structure
-/video/ # Contains the AI-generated interview video file
-/scripts/ # Contains the interview script text files
-/readme.md # This README file
+1. /video/ # Contains the AI-generated interview video file
+2. /scripts/ # Contains the interview script text files
+3. /readme.md # This README file
 
 ## Tools and Technologies Used
 - Invideo AI (https://ai.invideo.io) is used to generate AI videos.
@@ -107,4 +107,5 @@ End the video with a smooth fade-out after the last answer.
 
 ## Credits
 - Data: Syracuse University Athletics official stats
+
 - AI tools: Perplexity AI and Video AI models such as Invideo AI
